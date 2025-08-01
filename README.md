@@ -6,7 +6,8 @@ This project explores and visualizes data related to Netflix's collection of TV 
 The goal of this notebook is to help understand Netflix's content trends through clear and insightful visualizations. Below is a breakdown of each graph used in this project, with descriptions to explain what each visualization reveals.
 
 📌 1.  Movies vs TV Shows Count
-<img width="500" height="600" alt="movies_vs_tvshows" src="https://github.com/user-attachments/assets/03714223-2fd7-4eb0-a627-abc22ce50a3e" />
+
+<img width="500" height="500" alt="movies_vs_tvshows" src="https://github.com/user-attachments/assets/03714223-2fd7-4eb0-a627-abc22ce50a3e" />
 
 This bar graph compares the number of Movies and TV Shows on Netflix.
 
