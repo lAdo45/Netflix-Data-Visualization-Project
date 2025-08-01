@@ -69,28 +69,28 @@ Both categories saw major growth starting from 2010.
 The release of TV shows particularly accelerated between 2015–2020, showing Netflix's increasing investment in episodic content.
 
 📂 What's Inside the Notebook
-Data loading and cleaning using pandas
+1.Data loading and cleaning using pandas
 
-Visualizations using matplotlib.pyplot
+2.Visualizations using matplotlib.pyplot
 
-Exploratory analysis based on:
+3.Exploratory analysis based on:
 
-Country of production
+4.Country of production
 
-Content type (Movie/TV)
+5.Content type (Movie/TV)
 
-Release year trends
+6.Release year trends
 
-Duration of movies
+7.Duration of movies
 
-Content rating breakdown
+8.Content rating breakdown
 
 🧠 Skills Practiced
-Data visualization with Matplotlib
+1.Data visualization with Matplotlib
 
-Working with real-world datasets
+2.Working with real-world datasets
 
-Drawing insights through plots
+3.Drawing insights through plots
 
-Data grouping and aggregation with Pandas
+4.Data grouping and aggregation with Pandas
 
